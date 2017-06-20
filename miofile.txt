@@ -1,6 +1,6 @@
-pippo 
-Paperino
-Minnie
-TopolinA
-pluto
+1. pippo 
+2. Paperino
+3. Minnie
+4. TopolinA
+5. pluto
 
