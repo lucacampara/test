@@ -3,6 +3,8 @@
 3. Minnie
 4. TOPOLINa
 5. pluto
+
+Elenco Agostino
 A. Luca
 B. Mihai
 C. Matteo
@@ -12,3 +14,14 @@ F. Maurizio
 G. Piero
 H. Carlo
 I. Giacomo
+
+Elenco Luca
+M -> mariana
+A -> Agostino
+B -> Battistuta
+T -> Mihai
+F -> Federico
+P -> Maurizio
+E -> Enrico
+S -> Piero
+I -> Edward
